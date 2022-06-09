@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Android Development, Flutter**
 
-- 💬 Ask me about **React, Python, JavaScript**
+- 💬 Ask me about **Java, Python, React**
 
 - 📫 How to reach me **shashwat742002@gmail.com**
 
