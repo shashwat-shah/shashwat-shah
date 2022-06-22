@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shashwat742002@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am also a GAMER!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
