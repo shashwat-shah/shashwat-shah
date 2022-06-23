@@ -40,13 +40,6 @@
 
 <br>
 <hr>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat-shah&show_icons=true&locale=en&layout=compact" alt="shashwat-shah" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat-shah&show_icons=true&locale=en" alt="shashwat-shah" /></p> -->
-
-
-<!-- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-shah&" alt="shashwat-shah" /></p> -->
-
-
 
 <br/>
 
