@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Android Music Player**
+- 🔭 I’m currently working on **News Application using MVVM**
 
 - 🌱 I’m currently learning **Android Development, Flutter**
 
